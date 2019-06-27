@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="940b968d-1002-4f1d-81c1-cbd9d8d011b1" name="Default Changelist" comment="" />
+    <list default="true" id="940b968d-1002-4f1d-81c1-cbd9d8d011b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/frabac/mm/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/frabac/affsam/MyMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/frabac/mm/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/frabac/affsam/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/frabac/mm/atomictask/AtomicTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/frabac/affsam/atomictask/AtomicTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/frabac/mm/atomictask/NewBusiness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/frabac/affsam/atomictask/NewBusiness.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/frabac/mm/atomictask/NewCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/frabac/affsam/atomictask/NewCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/frabac/mm/logger/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/frabac/affsam/logger/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/frabac/mm/phase/Day.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/frabac/affsam/phase/Day.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/frabac/mm/phase/Evening.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/frabac/affsam/phase/Evening.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/frabac/mm/phase/Morning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/frabac/affsam/phase/Morning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/frabac/mm/phase/Night.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/frabac/affsam/phase/Night.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/frabac/mm/phase/Phase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/frabac/affsam/phase/Phase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/frabac/mm/task/NewCustomerAndNewBusiness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/frabac/affsam/task/NewCustomerAndNewBusiness.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/frabac/mm/task/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/frabac/affsam/task/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/frabac/mm/task/TaskCompletedListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/frabac/affsam/task/TaskCompletedListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/frabac/mm/task/executor/TaskExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/frabac/affsam/task/executor/TaskExecutor.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +31,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/phase/Day.java">
+        <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/phase/Day.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
               <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
@@ -26,19 +43,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/phase/Phase.java">
+        <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/phase/Phase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="34">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/task/Task.java">
+        <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/task/Task.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="98" selection-start-line="6" selection-start-column="98" selection-end-line="6" selection-end-column="98" />
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,7 +64,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/task/NewCustomerAndNewBusiness.java">
+        <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/task/NewCustomerAndNewBusiness.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
@@ -59,7 +76,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/atomictask/NewCustomer.java">
+        <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/atomictask/NewCustomer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
@@ -68,7 +85,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/task/executor/TaskExecutor.java">
+        <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/task/executor/TaskExecutor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
@@ -89,6 +106,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -108,14 +128,8 @@
         <option value="$PROJECT_DIR$/src/com/frabac/mm/task/executor/TaskExecutor.java" />
         <option value="$PROJECT_DIR$/src/com/frabac/mm/phase/Day.java" />
         <option value="$PROJECT_DIR$/src/com/frabac/mm/task/Task.java" />
+        <option value="$PROJECT_DIR$/src/com/frabac/affsam/task/Task.java" />
       </list>
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
-      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -129,62 +143,42 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="MonitorableMultitasker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonitorableMultitasker" type="462c0819:PsiDirectoryNode" />
+              <item name="affsam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="affsam" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MonitorableMultitasker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonitorableMultitasker" type="462c0819:PsiDirectoryNode" />
+              <item name="affsam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="affsam" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MonitorableMultitasker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonitorableMultitasker" type="462c0819:PsiDirectoryNode" />
+              <item name="affsam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="affsam" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mm" type="462c0819:PsiDirectoryNode" />
+              <item name="affsam" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MonitorableMultitasker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonitorableMultitasker" type="462c0819:PsiDirectoryNode" />
+              <item name="affsam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="affsam" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mm" type="462c0819:PsiDirectoryNode" />
+              <item name="affsam" type="462c0819:PsiDirectoryNode" />
               <item name="atomictask" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MonitorableMultitasker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonitorableMultitasker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mm" type="462c0819:PsiDirectoryNode" />
-              <item name="phase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MonitorableMultitasker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonitorableMultitasker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mm" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MonitorableMultitasker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonitorableMultitasker" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mm" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="executor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -215,12 +209,12 @@
       </method>
     </configuration>
     <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.frabac.mm.MyMain" />
+      <option name="MAIN_CLASS_NAME" value="com.frabac.affsam.MyMain" />
       <module name="MonitorableMultitasker" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.frabac.mm.*" />
+          <option name="PATTERN" value="com.frabac.affsam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,10 +273,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="-8" width="1856" height="1096" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26057908" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26012793" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -343,28 +337,28 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/atomictask/AtomicTask.java">
+    <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/atomictask/AtomicTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/atomictask/NewBusiness.java">
+    <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/atomictask/NewBusiness.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/logger/Logger.java">
+    <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/logger/Logger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/Runner.java">
+    <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
@@ -374,63 +368,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/MyMain.java">
+    <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/MyMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1217" column="22" lean-forward="true" selection-start-line="1217" selection-start-column="22" selection-end-line="1217" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="241" column="29" lean-forward="true" selection-start-line="241" selection-start-column="29" selection-end-line="241" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/task/TaskCompletedListener.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/lang/Thread.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/lang/Object.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/lang/Runnable.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/task/TaskCompletedListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/phase/Night.java">
+    <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/phase/Night.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/phase/Evening.java">
+    <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/phase/Evening.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/phase/Morning.java">
+    <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/phase/Morning.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" selection-start-line="8" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/phase/Day.java">
+    <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/phase/Day.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
@@ -440,14 +416,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/phase/Phase.java">
+    <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/phase/Phase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/task/NewCustomerAndNewBusiness.java">
+    <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/task/NewCustomerAndNewBusiness.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
@@ -457,14 +433,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/atomictask/NewCustomer.java">
+    <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/atomictask/NewCustomer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/task/executor/TaskExecutor.java">
+    <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/task/executor/TaskExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
@@ -474,14 +450,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/frabac/mm/task/Task.java">
+    <entry file="file://$PROJECT_DIR$/src/com/frabac/affsam/task/Task.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="98" selection-start-line="6" selection-start-column="98" selection-end-line="6" selection-end-column="98" />
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
           </folding>
         </state>
       </provider>

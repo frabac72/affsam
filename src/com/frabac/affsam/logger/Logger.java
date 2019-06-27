@@ -1,4 +1,4 @@
-package com.frabac.mm.logger;
+package com.frabac.affsam.logger;
 
 public class Logger {
 

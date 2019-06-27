@@ -1,4 +1,4 @@
-package com.frabac.mm.task;
+package com.frabac.affsam.task;
 
 import java.util.Collection;
 import java.util.HashSet;

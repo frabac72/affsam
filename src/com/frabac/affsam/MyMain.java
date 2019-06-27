@@ -1,6 +1,6 @@
-package com.frabac.mm;
+package com.frabac.affsam;
 
-import com.frabac.mm.phase.Day;
+import com.frabac.affsam.phase.Day;
 
 public class MyMain {
 

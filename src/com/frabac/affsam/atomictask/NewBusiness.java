@@ -1,4 +1,4 @@
-package com.frabac.mm.atomictask;
+package com.frabac.affsam.atomictask;
 
 public class NewBusiness implements AtomicTask {
 

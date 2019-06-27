@@ -1,18 +1,18 @@
-package com.frabac.mm;
+package com.frabac.affsam;
 
-import com.frabac.mm.phase.Day;
-import com.frabac.mm.phase.Evening;
-import com.frabac.mm.phase.Morning;
-import com.frabac.mm.phase.Night;
+import com.frabac.affsam.phase.Day;
+import com.frabac.affsam.phase.Evening;
+import com.frabac.affsam.phase.Morning;
+import com.frabac.affsam.phase.Night;
 
-public class Runner {
+class Runner {
 
     private Day day;
     private Night night;
     private Morning morning;
     private Evening evening;
 
-    public void init(){
+    void init(){
         this.morning = new Morning();
         this.day=new Day();
         this.evening = new Evening();
@@ -20,7 +20,7 @@ public class Runner {
     }
 
 
-    public void go(){
+    void go(){
         morning.start();
         day.start();
         evening.start();

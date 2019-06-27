@@ -1,8 +1,8 @@
-package com.frabac.mm.phase;
+package com.frabac.affsam.phase;
 
-import com.frabac.mm.logger.Logger;
+import com.frabac.affsam.logger.Logger;
 
-public class Evening implements Phase {
+public class Night implements Phase {
   @Override
   public void start() {
     Logger.log(this.getClass().getSimpleName() + " started");

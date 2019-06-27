@@ -1,8 +1,8 @@
-package com.frabac.mm.task;
+package com.frabac.affsam.task;
 
-import com.frabac.mm.atomictask.NewBusiness;
-import com.frabac.mm.atomictask.NewCustomer;
-import com.frabac.mm.logger.Logger;
+import com.frabac.affsam.atomictask.NewBusiness;
+import com.frabac.affsam.atomictask.NewCustomer;
+import com.frabac.affsam.logger.Logger;
 
 public class NewCustomerAndNewBusiness extends Task{
 

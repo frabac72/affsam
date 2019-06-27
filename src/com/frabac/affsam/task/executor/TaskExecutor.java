@@ -1,7 +1,7 @@
-package com.frabac.mm.task.executor;
+package com.frabac.affsam.task.executor;
 
-import com.frabac.mm.task.Task;
-import com.frabac.mm.task.TaskCompletedListener;
+import com.frabac.affsam.task.Task;
+import com.frabac.affsam.task.TaskCompletedListener;
 
 import java.util.ArrayList;
 import java.util.List;

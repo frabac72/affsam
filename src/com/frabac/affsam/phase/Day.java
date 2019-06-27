@@ -1,9 +1,9 @@
-package com.frabac.mm.phase;
+package com.frabac.affsam.phase;
 
-import com.frabac.mm.logger.Logger;
-import com.frabac.mm.task.NewCustomerAndNewBusiness;
-import com.frabac.mm.task.Task;
-import com.frabac.mm.task.executor.TaskExecutor;
+import com.frabac.affsam.logger.Logger;
+import com.frabac.affsam.task.NewCustomerAndNewBusiness;
+import com.frabac.affsam.task.Task;
+import com.frabac.affsam.task.executor.TaskExecutor;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
